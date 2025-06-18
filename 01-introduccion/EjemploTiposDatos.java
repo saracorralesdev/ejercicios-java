@@ -17,7 +17,7 @@ public class EjemploTiposDatos {
         // Tipo booleano
         boolean condicion = true; // true o false
 
-        // Caracteres y cadenas
+        // Tipos caracteres y cadenas
         char inicial = 's'; // Un solo carácter, comillas simples
         String saludo = "¡Hola Mundo!"; // Cadena de texto, comillas dobles
 
