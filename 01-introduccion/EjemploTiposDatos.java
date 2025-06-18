@@ -21,5 +21,18 @@ public class EjemploTiposDatos {
         char inicial = 's'; // Un solo carácter, comillas simples
         String saludo = "¡Hola Mundo!"; // Cadena de texto, comillas dobles
 
+        // Mostrar los resultados por consola
+        System.out.println("Edad: " + edad);
+        System.out.println("Stock: " + stock);
+        System.out.println("Usuarios: " + usuarios);
+        System.out.println("Visitas: " + visitas);
+        System.out.println("Presupuesto: " + presupuesto);
+        System.out.println("Nota: " + nota);
+        System.out.println("Saldo: " + saldo);
+        System.out.println("Número en notación científica: " + numCientifico);
+        System.out.println("Condición: " + condicion);
+        System.out.println("Inicial: " + inicial);
+        System.out.println("Saludo: " + saludo);
+
     }
 }

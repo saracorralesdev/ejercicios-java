@@ -17,6 +17,7 @@ public class EjemploVariables {
         // Mostrar los resultados por consola
         System.out.println("Saludo: " + saludo);
         System.out.println("Número favorito: " + numeroFavorito);
+
     }
 }
 
