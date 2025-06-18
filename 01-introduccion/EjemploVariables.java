@@ -1,9 +1,22 @@
+// Clase para mostrar el uso de variables: declaración, inicialización y reasignación
 public class EjemploVariables {
     public static void main(String[] args) {
-        // Declaración, inicialización y asignación
-        String mensaje = "¡Hola Mundo!";  // Declaración e inicialización
-        int x; // Declaración
-        x = 7;  // Inicialización
-        mensaje = "¡Adiós Mundo!"; // Asignación
+
+        // Declaración e inicialización al mismo tiempo
+        String saludo = "¡Hola Mundo!";
+
+        // Declaración
+        int numeroFavorito;
+
+        // Inicialización posterior
+        numeroFavorito = 7;
+
+        // Reasignación de valor a una variable ya existente
+        saludo = "¡Adiós Mundo!";
+
+        // Mostrar los resultados por consola
+        System.out.println("Saludo: " + saludo);
+        System.out.println("Número favorito: " + numeroFavorito);
     }
 }
+
