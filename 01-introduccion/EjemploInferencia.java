@@ -7,7 +7,7 @@ public class EjemploInferencia {
         var numeroEntero = 7; // Se infiere que es de tipo int
         var numeroDecimal = 123.456; // Se infiere que es de tipo double
 
-        // Mostrar los valores por consola
+        // Mostrar los resultados por consola
         System.out.println(saludo);
         System.out.println("Número entero: " + numeroEntero);
         System.out.println("Número decimal: " + numeroDecimal);
