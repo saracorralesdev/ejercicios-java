@@ -1,5 +1,5 @@
 // Clase para mostrar cómo se declaran constantes en Java
-public class EjemploConstantes {
+public class EjemplosConstantes {
     public static void main(String[] args) {
         // Las constantes se declaran con 'final', se escriben en MAYÚSCULAS y usan _ para separar palabras
         // ❌ No se pueden cambiar después de su declaración

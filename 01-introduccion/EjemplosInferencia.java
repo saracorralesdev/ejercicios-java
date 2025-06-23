@@ -1,5 +1,5 @@
 // Clase para demostrar la inferencia de tipos con 'var'
-public class EjemploInferencia {
+public class EjemplosInferencia {
     public static void main(String[] args) {
         // Uso de 'var' para inferencia de tipos a partir del valor asignado
 
