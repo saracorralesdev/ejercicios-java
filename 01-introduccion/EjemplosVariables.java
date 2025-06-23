@@ -1,5 +1,5 @@
 // Clase para mostrar el uso de variables: declaración, inicialización y reasignación
-public class EjemploVariables {
+public class EjemplosVariables {
     public static void main(String[] args) {
 
         // Declaración e inicialización al mismo tiempo
@@ -17,7 +17,6 @@ public class EjemploVariables {
         // Mostrar los resultados por consola
         System.out.println("Saludo: " + saludo);
         System.out.println("Número favorito: " + numeroFavorito);
-
     }
 }
 

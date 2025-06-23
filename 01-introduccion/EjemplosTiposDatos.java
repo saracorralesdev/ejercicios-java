@@ -1,5 +1,5 @@
 // Clase para mostrar ejemplos de distintos tipos de datos en Java
-public class EjemploTiposDatos {
+public class EjemplosTiposDatos {
     public static void main(String[] args) {
 
         // Tipos enteros
@@ -33,6 +33,5 @@ public class EjemploTiposDatos {
         System.out.println("Condición: " + condicion);
         System.out.println("Inicial: " + inicial);
         System.out.println("Saludo: " + saludo);
-
     }
 }
