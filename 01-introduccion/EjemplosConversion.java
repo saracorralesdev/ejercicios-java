@@ -56,7 +56,7 @@ public class EjemplosConversion {
         System.out.println("Diferencia: " + (big - (int) approx));
         System.out.println();
 
-        // Conversiones explícitas (CASTING)
+        // Conversiones explícitas (Casting)
         // Tú le dices a Java que convierta el tipo con un "cast"
         System.out.println("----- Conversiones explícitas -----");
 
