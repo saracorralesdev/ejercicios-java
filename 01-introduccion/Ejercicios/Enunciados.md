@@ -18,8 +18,26 @@ Se considerará que el alumno está ✅ APROBADO si su nota media es mayor o igu
 🔗 Puedes ver la solución del ejercicio [aquí](EjercicioNotaMedia.java).
 
 ## Ejericio 3: Cálculo del Área y el Perímetro de un Rectángulo 📐
+
 El objetivo de este programa es calcular el área y el perímetro de un rectángulo, y muestre ambos resultados por consola 🖥️.
 
 El programa debe pedir al usuario que introduzca la altura y la anchura del rectángulo. Con esos datos, se debe calcular el área (altura × anchura) 🧮 y el perímetro (2 × (altura + anchura)) 📏.
 
 Al final, el programa debe mostrar por pantalla los dos resultados de forma clara y redondeados si es necesario.
+
+🔗 Puedes ver la solución del ejercicio [aquí](EjercicioRectangulo.java).
+
+## Ejericio 4: Cálculo del Área y el Perímetro de un Círculo 🔵
+
+El objetivo de este programa es calcular el área y el perímetro de un círculo, y mostrar ambos resultados por consola 🖥️.
+
+El programa debe pedir al usuario que introduzca el radio del círculo. Con esos datos, se debe calcular el área (π × radio²) 🧮 y el perímetro (2 × π × radio) 📏.
+
+Al final, el programa debe mostrar por pantalla los dos resultados de forma clara y redondeados si es necesario.
+
+🔗 Puedes ver la solución del ejercicio [aquí](EjercicioCirculo.java).
+
+
+
+
+
