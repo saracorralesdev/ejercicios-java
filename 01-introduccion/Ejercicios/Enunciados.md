@@ -14,3 +14,12 @@ El objetivo de este programa es calcular la nota media final de un alumno a part
 A partir de esos datos, el programa calculará el promedio de las tres notas, redondeando el resultado a dos decimales 🎯 para una presentación más precisa. Además de mostrar la nota media final en pantalla 🖥️, el programa debe indicar si el alumno ha aprobado o suspendido.
 
 Se considerará que el alumno está ✅ APROBADO si su nota media es mayor o igual a 5. En caso contrario, se considerará ❌ SUSPENSO si la nota es menor que 5.
+
+🔗 Puedes ver la solución del ejercicio [aquí](EjercicioNotaMedia.java).
+
+## Ejericio 3: Cálculo del Área y el Perímetro de un Rectángulo 📐
+El objetivo de este programa es calcular el área y el perímetro de un rectángulo, y muestre ambos resultados por consola 🖥️.
+
+El programa debe pedir al usuario que introduzca la altura y la anchura del rectángulo. Con esos datos, se debe calcular el área (altura × anchura) 🧮 y el perímetro (2 × (altura + anchura)) 📏.
+
+Al final, el programa debe mostrar por pantalla los dos resultados de forma clara y redondeados si es necesario.
