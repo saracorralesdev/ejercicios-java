@@ -1,14 +1,11 @@
 package Ejercicios;
+import java.util.Locale;
 import java.util.Scanner;
-/*
- * Calcula el precio final de un portátil a partir del coste de fabricación.
- * Añade un 30% de ganancia y un 21% de impuestos sobre el subtotal.
- * Muestra el precio total y si el portátil es NORMAL (≤600 €) o DE LUJO (>600 €).
- */
 public class EjercicioPrecioPortatil {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
+        sc.useLocale(Locale.US); // Esto hace que acepte el punto como separador decimal
 
         // Solicitamos al usuario que introduzca el coste de fabricación
         System.out.print("Introduce el coste de fabricación del portátil: ");
