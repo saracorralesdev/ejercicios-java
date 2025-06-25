@@ -21,7 +21,7 @@ public class EjercicioPrecioPortatil {
         // Calculamos el precio total sumando impuestos
         double precioTotal = subTotal + (subTotal * IMPUESTOS);
 
-        // Mostramos el precio final
+        // Mostramos el precio final por consola
         System.out.println("Precio final del portátil: " + precioTotal + " €.");
 
         // Clasificamos el portátil como NORMAL o DE LUJO
