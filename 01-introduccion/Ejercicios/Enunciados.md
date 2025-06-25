@@ -23,3 +23,5 @@ El objetivo de este programa es calcular el área y el perímetro de un rectáng
 El programa debe pedir al usuario que introduzca la altura y la anchura del rectángulo. Con esos datos, se debe calcular el área (altura × anchura) 🧮 y el perímetro (2 × (altura + anchura)) 📏.
 
 Al final, el programa debe mostrar por pantalla los dos resultados de forma clara y redondeados si es necesario.
+
+🔗 Puedes ver la solución del ejercicio [aquí](EjercicioRectangulo.java).
