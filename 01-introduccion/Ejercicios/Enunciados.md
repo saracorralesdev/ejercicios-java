@@ -37,7 +37,21 @@ Al final, el programa debe mostrar por pantalla los dos resultados de forma clar
 
 🔗 Puedes ver la solución del ejercicio [aquí](EjercicioCirculo.java).
 
+## Ejericio 5: Conversión de Euros a Dólares 💱
 
+El objetivo de este programa es calcular cuántos dólares se obtienen al convertir una cantidad en euros, y mostrar el resultado por consola 🖥️.
 
+El programa debe pedir al usuario que introduzca la cantidad de euros 💶 y el tipo de cambio 💹. Con esos datos, se debe calcular la conversión multiplicando los euros por el tipo de cambio 🔁.
 
+Al final, el programa debe mostrar por pantalla el resultado en dólares, redondeado si es necesario 💵.
+
+🔗 Puedes ver la solución del ejercicio [aquí](EjercicioConversor.java).
+
+## Ejericio 6: ¿Par o Impar? 🔢
+
+El objetivo de este programa es determinar si un número introducido por el usuario es par o impar, y mostrar el resultado por consola 🖥️.
+
+El programa debe pedir al usuario que introduzca un número entero. Para decidir si es par o impar, el programa debe usar el operador ternario ? : y mostrar un mensaje indicando el resultado ✅❌.
+
+🔗 Puedes ver la solución del ejercicio [aquí](EjercicioParImpar.java).
 
