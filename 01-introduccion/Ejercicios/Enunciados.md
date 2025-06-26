@@ -64,3 +64,21 @@ El programa debe pedir al usuario que introduzca dos números enteros 🔢. A pa
 Al final, el programa debe mostrar por pantalla los resultados de cada operación con un formato claro y ordenado ➕➖✖️➗.
 
 🔗 Puedes ver la solución del ejercicio [aquí](EjercicioCalculadoraBasica.java).
+
+## Ejercicio 8: Comparación de Números 🔢
+
+El objetivo de este programa es comparar dos números enteros introducidos por el usuario, y mostrar por consola 🖥️ cuál es el mayor, el menor o si ambos son iguales.
+
+El programa debe pedir al usuario que introduzca dos números. A partir de esos valores, debe mostrar un mensaje indicando cuál es mayor, cuál es menor, o si ambos son iguales ✅❌.
+
+🔗 Puedes ver la solución del ejercicio [aquí](EjercicioComparacion.java).
+
+## Ejercicio 9: Sueldo con Comisiones 💼💰
+
+El objetivo de este programa es calcular cuánto dinero ganará un vendedor al final del mes, teniendo en cuenta su sueldo base y un 10 % extra por comisiones sobre sus ventas.
+
+El programa debe pedir al usuario que introduzca el sueldo base del vendedor y el valor de tres ventas realizadas durante el mes. Con esos datos, debe calcular el 10 % de comisión sobre el total de las ventas 🧾 y luego sumar esa cantidad al sueldo base.
+
+Al final, el programa debe mostrar por pantalla cuánto gana el vendedor en comisiones 💸 y cuál es su sueldo total mensual 💼.
+
+🔗 Puedes ver la solución del ejercicio [aquí](EjercicioSueldoConComisiones.java).
