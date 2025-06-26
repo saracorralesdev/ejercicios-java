@@ -20,6 +20,7 @@ public class EjercicioRectangulo {
         System.out.printf("🧮 Área del círculo: %.2f", area);
         System.out.println();
         System.out.printf("📏 Perímetro del círculo: %.2f", perimetro);
+
         sc.close();
     }
 }
