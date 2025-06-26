@@ -82,3 +82,15 @@ El programa debe pedir al usuario que introduzca el sueldo base del vendedor y e
 Al final, el programa debe mostrar por pantalla cuánto gana el vendedor en comisiones 💸 y cuál es su sueldo total mensual 💼.
 
 🔗 Puedes ver la solución del ejercicio [aquí](EjercicioSueldoConComisiones.java).
+
+## Ejercicio 10: Contador de Monedas 🪙💶
+
+El objetivo de este programa es calcular el dinero total que tiene una persona, en euros y céntimos, a partir de la cantidad de monedas que posee.
+
+El programa debe pedir al usuario cuántas monedas tiene de 2 €, 1 €, 50 céntimos, 20 céntimos y 10 céntimos. Con esos datos, debe calcular el total en euros sumando el valor de todas las monedas.
+
+Al final, el programa debe mostrar por pantalla el dinero total que tiene el usuario, con el resultado expresado en euros y redondeado si es necesario 🧮💰.
+
+🔗 Puedes ver la solución del ejercicio [aquí](EjercicioContadorMonedas.java).
+
+
