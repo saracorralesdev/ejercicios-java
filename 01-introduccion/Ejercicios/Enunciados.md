@@ -51,7 +51,16 @@ Al final, el programa debe mostrar por pantalla el resultado en dólares, redond
 
 El objetivo de este programa es determinar si un número introducido por el usuario es par o impar, y mostrar el resultado por consola 🖥️.
 
-El programa debe pedir al usuario que introduzca un número entero. Para decidir si es par o impar, el programa debe usar el operador ternario ? : y mostrar un mensaje indicando el resultado ✅❌.
+El programa debe pedir al usuario que introduzca un número entero. Para decidir si es par o impar, el programa debe usar el operador ternario y mostrar un mensaje indicando el resultado ✅❌.
 
 🔗 Puedes ver la solución del ejercicio [aquí](EjercicioParImpar.java).
 
+## Ejercicio 7: Calculadora Básica 🧮
+
+El objetivo de este programa es realizar operaciones matemáticas básicas entre dos números enteros introducidos por el usuario, y mostrar todos los resultados por consola 🖥️.
+
+El programa debe pedir al usuario que introduzca dos números enteros 🔢. A partir de esos valores, debe calcular la suma, resta, multiplicación, división y el resto (módulo) de ambos números.
+
+Al final, el programa debe mostrar por pantalla los resultados de cada operación con un formato claro y ordenado ➕➖✖️➗.
+
+🔗 Puedes ver la solución del ejercicio [aquí](EjercicioCalculadoraBasica.java).
