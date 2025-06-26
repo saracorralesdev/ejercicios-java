@@ -3,11 +3,10 @@ import java.util.Locale;
 import java.util.Scanner;
 public class EjercicioPrecioPortatil {
     public static void main(String[] args) {
-
         Scanner sc = new Scanner(System.in);
         sc.useLocale(Locale.US); // Esto hace que acepte el punto como separador decimal
 
-        // Solicitamos al usuario que introduzca el coste de fabricación
+        // Pedimos al usuario que introduzca el coste de fabricación
         System.out.print("Introduce el coste de fabricación del portátil: ");
         double costeFabricacion = sc.nextDouble();
 

@@ -3,7 +3,6 @@ import java.util.Locale;
 import java.util.Scanner;
 public class EjercicioNotaMedia {
     public static void main(String[] args) {
-
         Scanner sc = new Scanner(System.in);
         sc.useLocale(Locale.US); // Esto hace que acepte el punto como separador decimal
 
@@ -20,7 +19,8 @@ public class EjercicioNotaMedia {
         // Redondeamos a dos decimales
         notaMedia = Math.round(notaMedia * 100.0) / 100.0;
         // Mostramos la nota media redondeada
-        System.out.printf("📊 Nota media final: %.2f\n", notaMedia);
+        System.out.printf("📊 Nota media final: %.2f", notaMedia);
+        System.out.println();
 
         // Mostramos un mensaje personalizado según si aprueba o suspende
         String resultadoFinal = (notaMedia >= 5) ? "✅ ¡Enhorabuena, has aprobado!" : "❌ Lo siento, has suspendido.";
